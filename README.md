@@ -7,6 +7,8 @@ Aqui esta el link de mi carta Pokemon.
 
 
 Esta es mi carta:
+
+
 ![imatge](https://github.com/user-attachments/assets/949436a0-ea70-43ac-b47b-608091fd8d9c)
 
 
