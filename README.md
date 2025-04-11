@@ -5,6 +5,7 @@ Aqui esta el link de mi carta Pokemon.
 
 
 Esta es mi carta:
-![imatge](https://github.com/user-attachments/assets/bfb6c84f-b7fd-4cec-b4c6-6c2b1cf79436)
+![imatge](https://github.com/user-attachments/assets/949436a0-ea70-43ac-b47b-608091fd8d9c)
+
 
 De esta manera he podido subir mi carta:
