@@ -6,6 +6,12 @@ Aqui esta el link de mi carta Pokemon.
 
 
 
+
+
+
+
+
+
 Esta es mi carta:
 
 
