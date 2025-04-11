@@ -1,4 +1,4 @@
-# pokemon
+# POKEMON
 
 Aqui esta el link de mi carta Pokemon.
 ![imatge](https://github.com/user-attachments/assets/fb022308-5928-4c9c-8231-8d14a6fdd282)
